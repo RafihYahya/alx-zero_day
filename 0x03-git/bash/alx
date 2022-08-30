@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo " ALX School is so cool! "
 =======
 echo " ALX School "
@@ -9,3 +10,7 @@ echo " ALX School "
 =======
 echo " ALX School  "
 >>>>>>> update_script
+=======
+echo " ALX School "
+
+>>>>>>> de6be74f93db94b3ede9a4a5606383f6ffe89f72
